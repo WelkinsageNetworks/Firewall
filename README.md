@@ -1,5 +1,3 @@
-Write a 1000 word README.MD on GitHub for Welkinsage Networks open source Firewall solution. Describe how it beats the competition, use markdown formatting.
-
 # Welkinsage Networks Firewall
 
 Welkinsage Networks is proud to present our new open source firewall solution! This state-of-the-art software has been designed from the ground up to provide superior protection for your network, while also being incredibly easy to use.
