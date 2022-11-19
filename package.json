@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "welkinsagefirewall",
+  "version": "1.0.0",
+  "description": "Welkinsage Firewall",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node .",
+    "test": "echo Tests are for losers."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WelkinsageNetworks/firewall.git"
+  },
+  "keywords": [
+    "cdn",
+    "waf"
+  ],
+  "author": "Welkinsage Networks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WelkinsageNetworks/firewall/issues"
+  },
+  "homepage": "https://github.com/WelkinsageNetworks/firewall#readme"
+}
