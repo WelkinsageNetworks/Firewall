@@ -12,8 +12,6 @@ Here are just a few of the ways in which our firewall beats the competition:
 
 - **Open source**: Our firewall is open source, which means that it is constantly being improved by a community of passionate security experts.
 
-# How to install?
-
 ## Requirements
 
 To install and use Welkinsage Networks Firewall, you will need:
@@ -22,7 +20,7 @@ To install and use Welkinsage Networks Firewall, you will need:
 - 2 GHz processor or faster
 - 10 GB of free hard disk space
 
-Installation
+## Installation
 
 1. Clone the repository:
    `git clone https://github.com/Welkinsage/Firewall`
